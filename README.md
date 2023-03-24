@@ -1,6 +1,6 @@
 # Александра Фомичева
 ## Портфолио
-<image src="https://drive.google.com/file/d/1t6BW7EdqoFhlbVBxOfoLorr8OSR1732g/view?usp=share_link" alt="Фото">
+<image src="фото.jpg" alt="Фото">
 
 ### Контакты
 Telegram [@afloemkis](https://t.me/afloemkis)
